@@ -4,10 +4,16 @@ QTextReader:
 
 
 **Todo:**
+
+
 1.分页算法需要优化
+
 2.paintevent()要优化
+
 3.添加网络支持
+
 4.翻页动画
+
 5.qml版本
 
 
